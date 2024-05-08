@@ -1,0 +1,33 @@
+/* PlayerProfile.css */
+.player-profile {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.player-details {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.player-details td {
+  padding: 12px 0;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 16px;
+  color: #333333;
+}
+
+.player-details td:first-child {
+  font-weight: 500;
+  color: #666666;
+  width: 150px;
+}
+
+.player-details td:last-child {
+  color: #333333;
+}
+
+.player-details tr:last-child td {
+  border-bottom: none;
+}

@@ -1,0 +1,44 @@
+/* SurfaceWinPercentage.css */
+.surface-win-percentage {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+}
+
+.surface-win-percentage h3 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: #333333;
+  text-align: center;
+  font-weight: bold;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+}
+
+.surface-win-percentage .no-player-selected {
+  font-size: 20px;
+  color: #999999;
+  text-align: center;
+}
+
+.custom-tooltip {
+  background-color: rgba(255, 255, 255, 0.9);
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.custom-tooltip .label {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333333;
+  margin-bottom: 10px;
+}
+
+.custom-tooltip .intro {
+  font-size: 18px;
+  color: #555555;
+}
